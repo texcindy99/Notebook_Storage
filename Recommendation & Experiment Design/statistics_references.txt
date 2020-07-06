@@ -1,0 +1,17 @@
+The p-value 
+is defined as the best (largest) probability, under the null hypothesis 
+H about the unknown distribution F of the test statistic X, to have observed a value as 
+extreme or more extreme than the value actually observed. 
+
+If the p-value is very small,then the statistical significance is thought to be very large
+
+https://en.wikipedia.org/wiki/P-value
+
+Type I and II Errors and Significance Levels
+https://web.ma.utexas.edu/users/mks/statmistakes/errortypes.html
+
+Invariant and Evaluation Metric
+To recap, an invariant metric is an objective measure that you should expect will not vary 
+between conditions and that indicate equivalence between groups. Evaluation metrics, on the 
+other hand, represent measures where you expect there will be differences between groups, and 
+whose differences should say something meaningful about your experimental manipulation.
